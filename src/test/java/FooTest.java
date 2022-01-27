@@ -11,4 +11,6 @@ class FooTest {
     void myFalseMethod() {
         assertTrue(Foo.myMethod());
     }
+
+
 }
